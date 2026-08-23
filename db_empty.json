@@ -1,0 +1,62 @@
+{
+ "groups": [
+  {
+   "name": "行测",
+   "categories": [
+    {
+     "name": "判断推理",
+     "questions": []
+    },
+    {
+     "name": "言语理解",
+     "questions": []
+    },
+    {
+     "name": "数量关系",
+     "questions": []
+    },
+    {
+     "name": "资料分析",
+     "questions": []
+    },
+    {
+     "name": "图形推理",
+     "questions": []
+    }
+   ]
+  },
+  {
+   "name": "常识",
+   "categories": [
+    {
+     "name": "政治",
+     "questions": []
+    },
+    {
+     "name": "经济",
+     "questions": []
+    },
+    {
+     "name": "文化",
+     "questions": []
+    },
+    {
+     "name": "地理环境",
+     "questions": []
+    },
+    {
+     "name": "历史",
+     "questions": []
+    },
+    {
+     "name": "法律",
+     "questions": []
+    },
+    {
+     "name": "自然科技",
+     "questions": []
+    }
+   ]
+  }
+ ]
+}
